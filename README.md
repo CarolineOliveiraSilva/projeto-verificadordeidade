@@ -2,7 +2,8 @@
 
 Este é um projeto simples desenvolvido com **HTML5**, **CSS3** e **JavaScript** que permite ao usuário digitar seu ano de nascimento, calcular sua idade e exibir uma imagem correspondente à sua faixa etária (criança, jovem, adulto ou idoso).
 
----
+📌 Status
+✅ Projeto em construção – melhorias visuais futuras seram aplicadas.
 
 ## Feito no curso de javascript do Curso em Video 
 
@@ -36,4 +37,6 @@ Este é um projeto simples desenvolvido com **HTML5**, **CSS3** e **JavaScript**
 - 🎨 **Estilização com CSS3**, incluindo responsividade  
 - 📅 Uso de `new Date().getFullYear()` para trabalhar com o ano atual de forma dinâmica  
 
+💻executar o projeto
+ https://carolineoliveirasilva.github.io/projeto-verificadordeidade
 
